@@ -1,0 +1,19 @@
+Google test
+
+Eesmärk: Panna otsinguribale märksõna "dog" ja leida sellele vasted
+
+1. Google avamine 
+2. Pop-up akna sulgemine (küpsistest keeldumine)
+3. Märksõna "dog" kirjutamine
+4. Tulemitest esimese valimine
+5. Otsingu nupu vajutamine
+6. Esimese viite avamine otsingu "dog" põhjal
+
+Youtube test
+
+Eesmärk: Otsida video ja mängida see
+
+1. Youtube avamine
+2. Märksõna kirjutamine ja enteri vajutus (teostab otsingu)
+3. Esimese tulemi valimine
+4. Video esitamine
